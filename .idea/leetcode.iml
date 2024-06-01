@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Convert-Binary-Number-in-a-Linked-List-to-Integer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ListNode" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Middle-of-the-linked-list" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
