@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ListNode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Middle-of-the-linked-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Reverse-String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/two-sum" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
