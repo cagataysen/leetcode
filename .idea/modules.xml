@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Keyboard-row/Keyboard-row.iml" filepath="$PROJECT_DIR$/Keyboard-row/Keyboard-row.iml" />
       <module fileurl="file://$PROJECT_DIR$/Middle-of-the-linked-list.iml" filepath="$PROJECT_DIR$/Middle-of-the-linked-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minimum-index-sum-of-two-list/minimum-index-sum-of-two-list.iml" filepath="$PROJECT_DIR$/minimum-index-sum-of-two-list/minimum-index-sum-of-two-list.iml" />
       <module fileurl="file://$PROJECT_DIR$/roman-to-integer/roman-to-integer.iml" filepath="$PROJECT_DIR$/roman-to-integer/roman-to-integer.iml" />
     </modules>
   </component>

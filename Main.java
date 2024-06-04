@@ -7,6 +7,14 @@ public static void main(String[] args) {
     reverseString(s);
 
     System.out.println("Reversed array: " + String.valueOf(s));
+
+    String[] restaurants1 = {"mudurnu", "napcaz", "misirli", "abdo", "caglayan", "kebo"};
+    String[] restaurants2 = {"ulus kofte", "tadim doner", "misirli", "kebo"};
+    FindRestaurant.findRestaurant(restaurants1, restaurants2);
+
+
 }
+
+
 
 }

@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Reverse-String" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/two-sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Keyboard-row" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/minimum-index-sum-of-two-list" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
