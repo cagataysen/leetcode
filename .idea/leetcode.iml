@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Keyboard-row" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/minimum-index-sum-of-two-list" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/two-sum-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Longest-Common-Prefix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Palindrome-Number" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
