@@ -16,6 +16,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Palindrome-Number" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Valid-Paranthesis" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/verisk" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Unique-Morse-Code-Words" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Valid-Palindrome" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
