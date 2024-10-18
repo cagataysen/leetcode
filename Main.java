@@ -18,10 +18,12 @@ public static void main(String[] args) {
     FindRestaurant.findRestaurant(restaurants1, restaurants2);
 */
 
-
+/*
     Palindrome palindrome = new Palindrome();
     int x = 121;
     System.out.println(palindrome.isPalindrome(x));
+*/
+
 
 
 
