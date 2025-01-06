@@ -18,6 +18,9 @@
       <sourceFolder url="file://$MODULE_DIR$/verisk" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Unique-Morse-Code-Words" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Valid-Palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Group-Anagrams-Medium" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/two-sum-3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/two-sum-4" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

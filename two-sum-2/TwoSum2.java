@@ -1,7 +1,5 @@
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.List;
 
 public class TwoSum2 {
     public int[] twoSum(int[] nums, int target) {
