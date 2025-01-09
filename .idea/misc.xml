@@ -6,10 +6,12 @@
       <list>
         <option value="$PROJECT_DIR$/Middle-of-the-linked-list/pom.xml" />
         <option value="$PROJECT_DIR$/Reverse-String/pom.xml" />
+        <option value="$PROJECT_DIR$/Encode-And-Decode-Strings/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Encode-And-Decode-Strings/pom.xml" />
         <option value="$PROJECT_DIR$/Middle-of-the-linked-list/pom.xml" />
       </set>
     </option>

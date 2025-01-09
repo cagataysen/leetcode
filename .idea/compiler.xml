@@ -9,6 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Encode-And-Decode-Strings" target="19" />
       <module name="Middle-of-the-linked-list" target="19" />
       <module name="Reverse-String" target="19" />
     </bytecodeTargetLevel>
