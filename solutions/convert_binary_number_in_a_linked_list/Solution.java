@@ -1,3 +1,5 @@
+package solutions.convert_binary_number_in_a_linked_list;
+
 //  Definition for singly-linked list.
 class ListNode {
     public int val;

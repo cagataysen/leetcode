@@ -1,3 +1,5 @@
+package solutions.encodeanddecodestrings;
+
 import java.util.ArrayList;
 import java.util.List;
 

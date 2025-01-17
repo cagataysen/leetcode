@@ -4,25 +4,9 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Convert-Binary-Number-in-a-Linked-List-to-Integer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ListNode" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Middle-of-the-linked-list" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Reverse-String" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/two-sum" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Keyboard-row" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/minimum-index-sum-of-two-list" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/two-sum-2" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Longest-Common-Prefix" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Palindrome-Number" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Valid-Paranthesis" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/verisk" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Unique-Morse-Code-Words" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Valid-Palindrome" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Group-Anagrams-Medium" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/two-sum-3" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/two-sum-4" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Top-K-Frequent-Elements" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Encode-And-Decode-Strings" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
