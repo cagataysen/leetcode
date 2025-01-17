@@ -21,6 +21,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Group-Anagrams-Medium" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/two-sum-3" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/two-sum-4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Top-K-Frequent-Elements" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Encode-And-Decode-Strings" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
