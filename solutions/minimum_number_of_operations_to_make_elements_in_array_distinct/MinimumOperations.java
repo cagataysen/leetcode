@@ -1,4 +1,4 @@
-package solutions.MinimumNumberOfOperationsToMakeElementsInArrayDistinct;
+package solutions.minimum_number_of_operations_to_make_elements_in_array_distinct;
 
 import java.util.*;
 
