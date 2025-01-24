@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53602da2-64ca-4ed9-b162-d047a2d8971e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RansomNoteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/leetcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/convert_binary_number_in_a_linked_list/Question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/keyboard_row/question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/middle_of_the_linked_list/Question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/minimum_index_sum_of_two_list/question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/palindrome_number/SolutionDiary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/reverse_string/Question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/two_sum/quesetion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/convert_binary_number_in_a_linked_list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/convert_binary_number_in_a_linked_list/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/convert_binary_number_in_a_linked_list/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/convert_binary_number_in_a_linked_list/Question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/convert_binary_number_in_a_linked_list/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/convert_binary_number_in_a_linked_list/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/count_the_number_of_consistent_strings/CountConsistentStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/count_the_number_of_consistent_strings/CountConsistentStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/destination_city/DestinationCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/destination_city/DestinationCity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/encodeanddecodestrings/EncodeAndDecode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encodeanddecodestrings/EncodeAndDecode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/group_Anagrams_medium/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/group_Anagrams_medium/GroupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/intersection_of_two_arrays/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intersection_of_two_arrays/Intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/keyboard_row/findWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/keyboard_row/findWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/keyboard_row/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/keyboard_row/question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/longest_common_prefix/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/longest_common_prefix/LongestCommonPrefix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/majority_element/MajorityElementSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/majority_element/MajorityElementSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/middle_of_the_linked_list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/middle_of_the_linked_list/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/middle_of_the_linked_list/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/middle_of_the_linked_list/Question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/middle_of_the_linked_list/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/middle_of_the_linked_list/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/minimum_index_sum_of_two_list/FindRestaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minimum_index_sum_of_two_list/FindRestaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/minimum_index_sum_of_two_list/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minimum_index_sum_of_two_list/question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/minimum_number_of_operations_to_make_elements_in_array_distinct/MinimumOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minimum_number_of_operations_to_make_elements_in_array_distinct/MinimumOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/palindrome_number/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/palindrome_number/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/palindrome_number/SolutionDiary.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/palindrome_number/SolutionDiary.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/ransom_note/RansomeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ransom_note/RansomNote.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/reverse_string/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reverse_string/Question.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/reverse_string/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reverse_string/Solution3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/single_number/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/single_number/SingleNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/sort_the_people/SortPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort_the_people/SortPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/top_k_frequent_elements/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top_k_frequent_elements/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/two_sum/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum/Solution4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/two_sum/Solution4Faster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum/Solution4Faster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/two_sum/quesetion.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum/quesetion.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/two_sum_2/TwoSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum_2/TwoSum2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/two_sum_3/TwoSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum_3/TwoSum3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/two_sum_4/TwoSum4withHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum_4/TwoSum4withHashCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/uncommon_words_from_two_sentences/UncommonFromSentencesSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uncommon_words_from_two_sentences/UncommonFromSentencesSolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/valid_anagram/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/valid_anagram/IsAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/valid_palindrome/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/valid_palindrome/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/valid_paranthesis/ValidParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/valid_paranthesis/ValidParanthesis.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hF50b5XlIt0CQFzTHtMBLfC0qc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.GroupAnagrams.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MinimumOperations.executor": "Run",
+    "Application.Verisk.executor": "Run",
+    "JUnit.RansomNoteTest.executor": "Run",
+    "JUnit.RansomNoteTest.testCanConstruct.executor": "Run",
+    "Maven.leetcode [clean,install].executor": "Run",
+    "Maven.leetcode [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Komp/Desktop/Projects/leetcode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.508046",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+      <recent name="ListNode" />
+      <recent name="Convert Binary Number in a Linked List to Integer" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Komp\Desktop\Projects\leetcode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Komp\Desktop\Projects\leetcode\solutions\convert_binary_number_in_a_linked_list" />
+      <recent name="C:\Users\Komp\Desktop\Projects\leetcode\solutions" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.RansomNoteTest">
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupAnagrams" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.main.java.minimum_number_of_operations_to_make_elements_in_array_distinct.MinimumOperations" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.main.java.minimum_number_of_operations_to_make_elements_in_array_distinct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Verisk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Verisk" />
+      <module name="leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RansomNoteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RansomNoteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RansomNoteTest.testCanConstruct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RansomNoteTest" />
+      <option name="METHOD_NAME" value="testCanConstruct" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RansomNoteTest" />
+        <item itemvalue="JUnit.RansomNoteTest.testCanConstruct" />
+        <item itemvalue="Application.MinimumOperations" />
+        <item itemvalue="Application.GroupAnagrams" />
+        <item itemvalue="Application.Verisk" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53602da2-64ca-4ed9-b162-d047a2d8971e" name="Changes" comment="" />
+      <created>1717176764713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717176764713</updated>
+      <workItem from="1717176766455" duration="1257000" />
+      <workItem from="1717278427340" duration="329000" />
+      <workItem from="1717334882291" duration="4379000" />
+      <workItem from="1717443224257" duration="117000" />
+      <workItem from="1717443369314" duration="16000" />
+      <workItem from="1717498878665" duration="1758000" />
+      <workItem from="1718802806251" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

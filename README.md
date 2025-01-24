@@ -1,2 +1,2 @@
 # leetcode
-I will be sharing here my leetcode solutions in Java.
+I will be sharing here my leetcode src in Java.
