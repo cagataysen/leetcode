@@ -21,6 +21,7 @@ middle_of_the_linked_list\ListNode.class
 two_sum\Solution4.class
 valid_anagram\IsAnagram.class
 single_number\SingleNumber.class
+length_of_last_word\LengthOfLastWord.class
 group_Anagrams_medium\GroupAnagrams.class
 minimum_number_of_operations_to_make_elements_in_array_distinct\MinimumOperations.class
 ransom_note\RansomNote.class
