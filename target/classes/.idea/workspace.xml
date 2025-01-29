@@ -5,67 +5,96 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53602da2-64ca-4ed9-b162-d047a2d8971e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/RansomNoteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/valid_palindrome_two_pointers/ValidPalindromeTwoPointersSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ValidPalindromeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/leetcode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/convert_binary_number_in_a_linked_list/Question.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/keyboard_row/question.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/middle_of_the_linked_list/Question.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/minimum_index_sum_of_two_list/question.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/palindrome_number/SolutionDiary.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/reverse_string/Question.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/solutions/two_sum/quesetion.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/convert_binary_number_in_a_linked_list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/convert_binary_number_in_a_linked_list/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/convert_binary_number_in_a_linked_list/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/convert_binary_number_in_a_linked_list/Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/convert_binary_number_in_a_linked_list/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/convert_binary_number_in_a_linked_list/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/count_the_number_of_consistent_strings/CountConsistentStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/count_the_number_of_consistent_strings/CountConsistentStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/destination_city/DestinationCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/destination_city/DestinationCity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/encodeanddecodestrings/EncodeAndDecode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/encodeanddecodestrings/EncodeAndDecode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/group_Anagrams_medium/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/group_Anagrams_medium/GroupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/intersection_of_two_arrays/Intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/intersection_of_two_arrays/Intersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/keyboard_row/findWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/keyboard_row/findWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/keyboard_row/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/keyboard_row/question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/longest_common_prefix/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/longest_common_prefix/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/majority_element/MajorityElementSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/majority_element/MajorityElementSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/middle_of_the_linked_list/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/middle_of_the_linked_list/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/middle_of_the_linked_list/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/middle_of_the_linked_list/Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/middle_of_the_linked_list/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/middle_of_the_linked_list/Solution2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/minimum_index_sum_of_two_list/FindRestaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minimum_index_sum_of_two_list/FindRestaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/minimum_index_sum_of_two_list/question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minimum_index_sum_of_two_list/question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/minimum_number_of_operations_to_make_elements_in_array_distinct/MinimumOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/minimum_number_of_operations_to_make_elements_in_array_distinct/MinimumOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/palindrome_number/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/palindrome_number/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/palindrome_number/SolutionDiary.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/palindrome_number/SolutionDiary.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/ransom_note/RansomeNote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ransom_note/RansomNote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/reverse_string/Question.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reverse_string/Question.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/reverse_string/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/reverse_string/Solution3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/single_number/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/single_number/SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/sort_the_people/SortPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sort_the_people/SortPeople.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/top_k_frequent_elements/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/top_k_frequent_elements/TopKFrequentElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/two_sum/Solution4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum/Solution4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/two_sum/Solution4Faster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum/Solution4Faster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/two_sum/quesetion.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum/quesetion.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/two_sum_2/TwoSum2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum_2/TwoSum2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/two_sum_3/TwoSum3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum_3/TwoSum3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/two_sum_4/TwoSum4withHashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/two_sum_4/TwoSum4withHashCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/uncommon_words_from_two_sentences/UncommonFromSentencesSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uncommon_words_from_two_sentences/UncommonFromSentencesSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/valid_anagram/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/valid_anagram/IsAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/valid_palindrome/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/valid_palindrome/ValidPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/valid_paranthesis/ValidParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/valid_paranthesis/ValidParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/valid_palindrome/ValidPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/valid_palindrome/ValidPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/LengthOfLastWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/LengthOfLastWordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MostCommonWordTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/MostCommonWordTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RansomNoteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/RansomNoteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/convert_binary_number_in_a_linked_list/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/convert_binary_number_in_a_linked_list/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/convert_binary_number_in_a_linked_list/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/convert_binary_number_in_a_linked_list/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/count_the_number_of_consistent_strings/CountConsistentStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/count_the_number_of_consistent_strings/CountConsistentStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/destination_city/DestinationCity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/destination_city/DestinationCity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/encodeanddecodestrings/EncodeAndDecode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/encodeanddecodestrings/EncodeAndDecode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/group_Anagrams_medium/GroupAnagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/group_Anagrams_medium/GroupAnagrams.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/intersection_of_two_arrays/Intersection.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/intersection_of_two_arrays/Intersection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/keyboard_row/findWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/keyboard_row/findWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/length_of_last_word/LengthOfLastWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/length_of_last_word/LengthOfLastWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/longest_common_prefix/LongestCommonPrefix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/longest_common_prefix/LongestCommonPrefix.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/majority_element/MajorityElementSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/majority_element/MajorityElementSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/middle_of_the_linked_list/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/middle_of_the_linked_list/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/middle_of_the_linked_list/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/middle_of_the_linked_list/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/minimum_index_sum_of_two_list/FindRestaurant.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/minimum_index_sum_of_two_list/FindRestaurant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/minimum_number_of_operations_to_make_elements_in_array_distinct/MinimumOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/minimum_number_of_operations_to_make_elements_in_array_distinct/MinimumOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/most_common_word/MostCommonWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/most_common_word/MostCommonWord.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/palindrome_number/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/palindrome_number/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ransom_note/RansomNote.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ransom_note/RansomNote.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/reverse_string/Solution3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/reverse_string/Solution3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/single_number/SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/single_number/SingleNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sort_the_people/SortPeople.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sort_the_people/SortPeople.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/src/main/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/src/main/java/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/leetcode-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/surefire-reports/RansomNoteTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/surefire-reports/TEST-RansomNoteTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/leetcode-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/surefire-reports/RansomNoteTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/surefire-reports/RansomNoteTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/surefire-reports/TEST-RansomNoteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/surefire-reports/TEST-RansomNoteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/leetcode-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/surefire-reports/RansomNoteTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/surefire-reports/RansomNoteTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/surefire-reports/TEST-RansomNoteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/surefire-reports/TEST-RansomNoteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/leetcode-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/surefire-reports/RansomNoteTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/surefire-reports/RansomNoteTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/surefire-reports/TEST-RansomNoteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/surefire-reports/TEST-RansomNoteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/top_k_frequent_elements/TopKFrequentElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/top_k_frequent_elements/TopKFrequentElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/two_sum/Solution4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/two_sum/Solution4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/two_sum/Solution4Faster.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/two_sum/Solution4Faster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/two_sum_2/TwoSum2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/two_sum_2/TwoSum2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/two_sum_3/TwoSum3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/two_sum_3/TwoSum3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/two_sum_4/TwoSum4withHashCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/two_sum_4/TwoSum4withHashCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/uncommon_words_from_two_sentences/UncommonFromSentencesSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uncommon_words_from_two_sentences/UncommonFromSentencesSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/valid_anagram/IsAnagram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/valid_anagram/IsAnagram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/valid_palindrome/ValidPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/valid_palindrome/ValidPalindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/valid_paranthesis/ValidParanthesis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/valid_paranthesis/ValidParanthesis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/leetcode-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/LengthOfLastWordTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/LengthOfLastWordTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/MostCommonWordTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/MostCommonWordTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-LengthOfLastWordTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-LengthOfLastWordTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-MostCommonWordTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-MostCommonWordTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-RansomNoteTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-RansomNoteTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/LengthOfLastWordTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/LengthOfLastWordTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/MostCommonWordTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/MostCommonWordTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RansomNoteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/RansomNoteTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,9 +129,25 @@
     "Application.Main.executor": "Run",
     "Application.MinimumOperations.executor": "Run",
     "Application.Verisk.executor": "Run",
+    "JUnit.LengthOfLastWordTest.emptyStringTest.executor": "Run",
+    "JUnit.LengthOfLastWordTest.executor": "Run",
+    "JUnit.LengthOfLastWordTest.oneWordTest.executor": "Run",
+    "JUnit.LengthOfLastWordTest.sentenceTest.executor": "Run",
+    "JUnit.LengthOfLastWordTest.sentenceWithGapsTest.executor": "Run",
+    "JUnit.LengthOfLastWordTest.sentencesTest.executor": "Run",
+    "JUnit.MostCommonWordTest.normalSentecesTest.executor": "Run",
+    "JUnit.MostCommonWordTest.regexTrendWordTest.executor": "Run",
     "JUnit.RansomNoteTest.executor": "Run",
     "JUnit.RansomNoteTest.testCanConstruct.executor": "Run",
+    "JUnit.ValidPalindromeTest.executor": "Run",
+    "JUnit.java in leetcode.executor": "Run",
+    "JUnit.test in leetcode.executor": "Run",
+    "Maven.leetcode [clean,compile,test].executor": "Run",
     "Maven.leetcode [clean,install].executor": "Run",
+    "Maven.leetcode [clean,test].executor": "Run",
+    "Maven.leetcode [clean].executor": "Run",
+    "Maven.leetcode [compile].executor": "Run",
+    "Maven.leetcode [install].executor": "Run",
     "Maven.leetcode [test].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -116,7 +161,8 @@
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.508046",
+    "project.structure.side.proportion": "0.20565553",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -139,64 +185,66 @@
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
-      <command value="mvn test" />
       <command value="mvn clean install" />
+      <command value="mvn clean test" />
+      <command value="mvn clean" />
+      <command value="mvn compile" />
+      <command value="mvn test" />
+      <command value="mvn clean compile test" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RansomNoteTest">
-    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GroupAnagrams" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinimumOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.main.java.minimum_number_of_operations_to_make_elements_in_array_distinct.MinimumOperations" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.main.java.minimum_number_of_operations_to_make_elements_in_array_distinct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Verisk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Verisk" />
-      <module name="leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RansomNoteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.test in leetcode">
+    <configuration name="LengthOfLastWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RansomNoteTest" />
+      <option name="MAIN_CLASS_NAME" value="LengthOfLastWordTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RansomNoteTest.testCanConstruct" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MostCommonWordTest.regexTrendWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RansomNoteTest" />
-      <option name="METHOD_NAME" value="testCanConstruct" />
+      <option name="MAIN_CLASS_NAME" value="MostCommonWordTest" />
+      <option name="METHOD_NAME" value="regexTrendWordTest" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidPalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ValidPalindromeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in leetcode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in leetcode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RansomNoteTest" />
-        <item itemvalue="JUnit.RansomNoteTest.testCanConstruct" />
-        <item itemvalue="Application.MinimumOperations" />
-        <item itemvalue="Application.GroupAnagrams" />
-        <item itemvalue="Application.Verisk" />
+        <item itemvalue="JUnit.test in leetcode" />
+        <item itemvalue="JUnit.java in leetcode" />
+        <item itemvalue="JUnit.LengthOfLastWordTest" />
+        <item itemvalue="JUnit.ValidPalindromeTest" />
+        <item itemvalue="JUnit.MostCommonWordTest.regexTrendWordTest" />
       </list>
     </recent_temporary>
   </component>
