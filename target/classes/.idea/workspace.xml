@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53602da2-64ca-4ed9-b162-d047a2d8971e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/product_of_array_except_self/ProductExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/ProductExceptSelfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/find_the_index_of_the_first_occurence_in_a_string/FirstOccurenceInTheString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/FirstOccurenceInTheStringTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     &quot;JUnit.LengthOfLastWordTest.sentencesTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.MostCommonWordTest.normalSentecesTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.MostCommonWordTest.regexTrendWordTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProductExceptSelfTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.RansomNoteTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.RansomNoteTest.testCanConstruct.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.ValidPalindromeTest.executor&quot;: &quot;Run&quot;,
@@ -105,7 +106,16 @@
       <command value="mvn clean compile test" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ProductExceptSelfTest">
+  <component name="RunManager" selected="JUnit.FirstOccurenceInTheStringTest">
+    <configuration name="FirstOccurenceInTheStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FirstOccurenceInTheStringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LengthOfLastWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
@@ -119,15 +129,6 @@
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ProductExceptSelfTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ValidPalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ValidPalindromeTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -151,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FirstOccurenceInTheStringTest" />
         <item itemvalue="JUnit.ProductExceptSelfTest" />
         <item itemvalue="JUnit.test in leetcode" />
         <item itemvalue="JUnit.java in leetcode" />
         <item itemvalue="JUnit.LengthOfLastWordTest" />
-        <item itemvalue="JUnit.ValidPalindromeTest" />
       </list>
     </recent_temporary>
   </component>
