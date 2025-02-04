@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53602da2-64ca-4ed9-b162-d047a2d8971e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/find_the_index_of_the_first_occurence_in_a_string/FirstOccurenceInTheString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/FirstOccurenceInTheStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/maximum_ascending_subarray_sum/MaxAscendingSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/MaxAscendingSumTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.MinimumOperations.executor&quot;: &quot;Run&quot;,
     &quot;Application.Verisk.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.FirstOccurenceInTheStringTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.LengthOfLastWordTest.emptyStringTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.LengthOfLastWordTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.LengthOfLastWordTest.oneWordTest.executor&quot;: &quot;Run&quot;,
@@ -106,7 +107,7 @@
       <command value="mvn clean compile test" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FirstOccurenceInTheStringTest">
+  <component name="RunManager" selected="JUnit.MaxAscendingSumTest">
     <configuration name="FirstOccurenceInTheStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
@@ -116,10 +117,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LengthOfLastWordTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxAscendingSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LengthOfLastWordTest" />
+      <option name="MAIN_CLASS_NAME" value="MaxAscendingSumTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MaxAscendingSumTest" />
         <item itemvalue="JUnit.FirstOccurenceInTheStringTest" />
         <item itemvalue="JUnit.ProductExceptSelfTest" />
         <item itemvalue="JUnit.test in leetcode" />
         <item itemvalue="JUnit.java in leetcode" />
-        <item itemvalue="JUnit.LengthOfLastWordTest" />
       </list>
     </recent_temporary>
   </component>
