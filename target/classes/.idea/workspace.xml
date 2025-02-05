@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53602da2-64ca-4ed9-b162-d047a2d8971e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/maximum_ascending_subarray_sum/MaxAscendingSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MaxAscendingSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/check_if_one_string_swap_can_make_strings_equal/AreAlmostEqual.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/AreAlmostEqualTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +48,18 @@
     &quot;JUnit.LengthOfLastWordTest.sentenceTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.LengthOfLastWordTest.sentenceWithGapsTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.LengthOfLastWordTest.sentencesTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MaxAscendingSumTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MaxAscendingSumTest.maxAscendingTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MaxAscendingSumTest.maxAscendingTestCase4EdgeCase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MaxAscendingSumTest.maxAscendingTestCase5EdgeCase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.MaxAscendingSumTest.maxAscendingTestCase6EdgeCase.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.MostCommonWordTest.normalSentecesTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.MostCommonWordTest.regexTrendWordTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.ProductExceptSelfTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.RansomNoteTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.RansomNoteTest.testCanConstruct.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.ValidPalindromeTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WordPatternTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.java in leetcode.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.test in leetcode.executor&quot;: &quot;Run&quot;,
     &quot;Maven.leetcode [clean,compile,test].executor&quot;: &quot;Run&quot;,
@@ -107,11 +113,11 @@
       <command value="mvn clean compile test" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MaxAscendingSumTest">
-    <configuration name="FirstOccurenceInTheStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AreAlmostEqualTest">
+    <configuration name="AreAlmostEqualTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstOccurenceInTheStringTest" />
+      <option name="MAIN_CLASS_NAME" value="AreAlmostEqualTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -126,38 +132,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductExceptSelfTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MaxAscendingSumTest.maxAscendingTestCase5EdgeCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ProductExceptSelfTest" />
+      <option name="MAIN_CLASS_NAME" value="MaxAscendingSumTest" />
+      <option name="METHOD_NAME" value="maxAscendingTestCase5EdgeCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxAscendingSumTest.maxAscendingTestCase6EdgeCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MaxAscendingSumTest" />
+      <option name="METHOD_NAME" value="maxAscendingTestCase6EdgeCase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordPatternTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WordPatternTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java in leetcode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="TEST_OBJECT" value="directory" />
-      <dir value="$PROJECT_DIR$/src/test/java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test in leetcode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="TEST_OBJECT" value="directory" />
-      <dir value="$PROJECT_DIR$/src/test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AreAlmostEqualTest" />
+        <item itemvalue="JUnit.WordPatternTest" />
         <item itemvalue="JUnit.MaxAscendingSumTest" />
-        <item itemvalue="JUnit.FirstOccurenceInTheStringTest" />
-        <item itemvalue="JUnit.ProductExceptSelfTest" />
-        <item itemvalue="JUnit.test in leetcode" />
-        <item itemvalue="JUnit.java in leetcode" />
+        <item itemvalue="JUnit.MaxAscendingSumTest.maxAscendingTestCase6EdgeCase" />
+        <item itemvalue="JUnit.MaxAscendingSumTest.maxAscendingTestCase5EdgeCase" />
       </list>
     </recent_temporary>
   </component>
