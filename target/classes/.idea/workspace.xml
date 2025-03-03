@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53602da2-64ca-4ed9-b162-d047a2d8971e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/check_if_one_string_swap_can_make_strings_equal/AreAlmostEqual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/AreAlmostEqualTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/shuffle_string/RestoreString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/RestoreStringTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.MinimumOperations.executor&quot;: &quot;Run&quot;,
     &quot;Application.Verisk.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AreAlmostEqualTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.FirstOccurenceInTheStringTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.LengthOfLastWordTest.emptyStringTest.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.LengthOfLastWordTest.executor&quot;: &quot;Run&quot;,
@@ -113,7 +114,7 @@
       <command value="mvn clean compile test" />
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AreAlmostEqualTest">
+  <component name="RunManager" selected="JUnit.RestoreStringTest">
     <configuration name="AreAlmostEqualTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
@@ -132,22 +133,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxAscendingSumTest.maxAscendingTestCase5EdgeCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxAscendingSumTest" />
-      <option name="METHOD_NAME" value="maxAscendingTestCase5EdgeCase" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MaxAscendingSumTest.maxAscendingTestCase6EdgeCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MaxAscendingSumTest" />
       <option name="METHOD_NAME" value="maxAscendingTestCase6EdgeCase" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestoreStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RestoreStringTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RestoreStringTest" />
         <item itemvalue="JUnit.AreAlmostEqualTest" />
         <item itemvalue="JUnit.WordPatternTest" />
         <item itemvalue="JUnit.MaxAscendingSumTest" />
         <item itemvalue="JUnit.MaxAscendingSumTest.maxAscendingTestCase6EdgeCase" />
-        <item itemvalue="JUnit.MaxAscendingSumTest.maxAscendingTestCase5EdgeCase" />
       </list>
     </recent_temporary>
   </component>
